@@ -15,7 +15,7 @@ This is an complaint portal build using html ,css , javascript as frontend and p
 ## **3. Screenshots**
 
 
-## **1.   Homepage-user-login**    <!-- Medium + bold -->
+## **1.   Homepage**    <!-- Medium + bold -->
 
 ![Homepage](screenshots/Homepage.png)
 
