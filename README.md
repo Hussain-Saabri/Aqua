@@ -22,18 +22,18 @@ This is an complaint portal build using html ,css , javascript as frontend and p
 
 ## **2. report_page_with_map**
 
-![report_page_with_map](https://github.com/Hussain-Saabri/AquaLeak/blob/281851dd1c167eada2fd548d75aa1767d06f10bc/Screenshots/report_page_with_map.png)
+![report_page_with_map](screenshots/report_page_with_map.png)
 
 
 ## **3. Sign up page**
    
 
-![SignUpPgae](https://github.com/Hussain-Saabri/AquaLeak/blob/cba41127521f9912ecce178edba3e839f04badcc/Screenshots/signup%20page.png)
+![SignUpPgae](screenshots/signup page.png)
 
 ## **4. Login Page**
 
    
-![LoginPage](https://github.com/Hussain-Saabri/AquaLeak/blob/cba41127521f9912ecce178edba3e839f04badcc/Screenshots/loginpage.png)
+![LoginPage](screenshots/loginpage.png)
 
 ## **5. code verification**
    
