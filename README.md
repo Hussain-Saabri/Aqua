@@ -28,7 +28,7 @@ This is an complaint portal build using html ,css , javascript as frontend and p
 ## **3. Sign up page**
    
 
-![SignUpPgae](screenshots/signup page.png)
+![SignUpPgae](screenshots/signup%20page.png)
 
 ## **4. Login Page**
 
