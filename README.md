@@ -37,7 +37,7 @@ This is an complaint portal build using html ,css , javascript as frontend and p
 
 ## **5. code verification**
    
-![code verification](https://github.com/Hussain-Saabri/AquaLeak/blob/281851dd1c167eada2fd548d75aa1767d06f10bc/Screenshots/code%20verification.png)
+![code verification](screenshots/code%20verification.png)
  
 
 ## **6. complaint_history_page**
