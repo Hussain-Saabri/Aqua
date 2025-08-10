@@ -17,7 +17,7 @@ This is an complaint portal build using html ,css , javascript as frontend and p
 
 ## **1.   Homepage-user-login**    <!-- Medium + bold -->
 
-![Homepage](https://github.com/Hussain-Saabri/Aqua/blob/281851dd1c167eada2fd548d75aa1767d06f10bc/screenshots/Homepage.png)
+![Homepage](https://github.com/Hussain-Saabri/Aqua/screenshots/Homepage.png)
 
 ## **2. report_page_with_map**
 
